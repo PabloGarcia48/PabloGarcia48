@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PabloGarcia48
-- 👀 I’m interested in mobile development
-- 🌱 I’m currently learning Kotlin and Swift
+- 👀 I’m interested in mobile and Web FullStack development
+- 🌱 I’m currently learning Swift and Web FullStack
 - 📫 How to reach me by mail pablorobertodev@gmail.com
 
 <!---
