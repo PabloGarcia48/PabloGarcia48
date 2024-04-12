@@ -11,13 +11,6 @@ PabloGarcia48/PabloGarcia48 is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
-
-
 # 📊 GitHub Stats:
 <div align="left">
   <a href="https://github.com/PabloGarcia48">
