@@ -2,7 +2,7 @@
 - 👀 I’m interested in mobile and Web FullStack development
 - 🌱 I’m currently learning Swift at Udemy and Web FullStack at GrowDev
 - 🧑‍🎓 I'm Mechanical Engineer becoming a developer
-- 
+
   
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5551993482929)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablogarciadev/)
