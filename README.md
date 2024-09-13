@@ -16,6 +16,23 @@
 
 🎶 Fun fact: I’ve played snare drum, bass drum, and surdo in a marching band and samba school.
 
+<!--
+Versão do texto em Português:
+👨‍💻 Meu nome é Pablo Garcia (apesar do nome espanhol, sou brasileiro), tenho 41 anos, sou casado e pai de uma linda princesa de 4 anos.
+
+🎓 Embora minha primeira graduação seja em Engenharia Mecânica, estudo programação desde 2021. Atualmente, sou bolsista da Sicredi Pioneira em um programa de formação Web FullStack na Growdev, com uma carga horária de 1000 horas.
+
+📱 Comecei minha trajetória de estudos e transição de carreira focando em Mobile, estudando Kotlin, Android, Swift e iOS. Logo percebi que a base em lógica e a experiência em resolução de problemas, adquiridas na minha formação e experiências anteriores, foram fundamentais para o meu progresso e entendimento nesta nova área.
+
+💻 Atualmente, além do curso na Growdev, estudo Análise e Desenvolvimento de Sistemas na UniFatecie. Já fiz cursos de Android e iOS também.
+
+🔧 Minha experiência na área de programação ainda é pouca, mas foi valiosa e de muito aprendizado para mim, foram 6 meses fazendo plugins de API para desenvolvedores NoCode (Bubble), saí para focar estudos no curso de FullStack.
+
+🌍 Idiomas: Português (nativo) e Inglês (avançado).  
+🤝 Voluntariado: Dou aulas de informática básica (Office e Windows) na igreja que frequento.  
+🎶 Curiosidades: Já toquei tarol, surdo e bumbo em banda marcial e escola de samba.
+-->
+
 ## 🗃️ Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablogarciadev/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5551993482929)
