@@ -27,7 +27,7 @@
 ## 🛠️Development Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,apple,vscode,figma,postman,github,git,discord,idea,powershell&perline=5" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,apple,vscode,figma,postman,github,git,discord,idea,powershell&perline=10" />
   </a>
 </p>
 
