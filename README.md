@@ -1,8 +1,20 @@
 # Nice to see you here! 🤩 - Enjoy my fullstack resume 🚀🧑‍💻
 
-- 👋 Hi, I’m @PabloGarcia48, a mechanical engineer who are becomming a full stack developer.
-- 👀 I’m interested in mobile and Web FullStack development
-- 🌱 I’m currently learning Swift at Udemy and Web FullStack at GrowDev
+👨‍💻 My name is Pablo Garcia (despite the Spanish name, I am Brazilian), I’m 41 years old, married, and the father of a beautiful 4-year-old princess.
+
+🎓 Although my first degree is in Mechanical Engineering, I’ve been studying programming since 2021. Currently, I am a scholarship recipient from Sicredi Pioneira in a 1000-hour Web FullStack development program at Growdev.
+
+📱 I started my journey of studies and career transition focusing on Mobile development, studying Kotlin, Android, Swift, and iOS. I quickly realized that the foundation in logic and problem-solving skills gained from my previous education and experiences were essential to my progress and understanding in this new field.
+
+💻 Currently, besides the Growdev course, I’m also studying Systems Analysis and Development at UniFatecie. I have also completed courses in Android and iOS development.
+
+🔧 My experience in programming is still limited, but it has been incredibly valuable. I spent six months developing API plugins for NoCode developers (Bubble), then left to focus on my FullStack studies.
+
+🌍 Languages: Portuguese (native) and English (advanced).
+
+🤝 Volunteering: I teach basic computer skills (Office and Windows) at the church I attend.
+
+🎶 Fun fact: I’ve played snare drum, bass drum, and surdo in a marching band and samba school.
 
 ## 🗃️ Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablogarciadev/)
